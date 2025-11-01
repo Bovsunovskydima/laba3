@@ -1,0 +1,3 @@
+D:/laba3/build/CMakeFiles/program.dir
+D:/laba3/build/CMakeFiles/ALL_BUILD.dir
+D:/laba3/build/CMakeFiles/ZERO_CHECK.dir
